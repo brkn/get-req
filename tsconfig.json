@@ -16,7 +16,8 @@
     "suppressImplicitAnyIndexErrors": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "declaration": true
   },
   "exclude": ["node_modules", "coverage", "dist"]
 }

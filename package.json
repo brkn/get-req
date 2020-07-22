@@ -1,10 +1,11 @@
 {
   "name": "get-req",
-  "description": "Minimal no configuration get request promise. Under 30 lines",
+  "description": "Minimal get request promise. No configuration, under 30 lines",
   "author": "Brkn <berkanunal@gmail.com> (https://berkan.dev/)",
   "keywords": ["get", "fetch", "request", "http", "https", "requests"],
   "license": "Apache-2.0",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "version": "0.1.0",
   "scripts": {
     "build": "tsc"
